@@ -2,14 +2,14 @@
     "data": [
         {
             "name": "TypeScript",
-            "percent": 27.35,
+            "percent": 37.35,
             "color": "#3178c6",
-            "decimal": "525.63",
-            "digital": "525:38",
-            "hours": 525,
+            "decimal": "725.63",
+            "digital": "725:38",
+            "hours": 725,
             "minutes": 38,
-            "text": "525 hrs 38 mins",
-            "total_seconds": 1892282.289279
+            "text": "725 hrs 38 mins",
+            "total_seconds": 2612280.289279
         },
         {
             "name": "JavaScript",
